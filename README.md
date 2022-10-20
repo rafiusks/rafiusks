@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rafiusks
-- 👀 I’m interested in starting my own company. :)
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on SasS space
 - 📫 How to reach me: vidal at live dot com
