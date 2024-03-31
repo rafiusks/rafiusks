@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafiusks
-- 🌱 I’m currently learning React Native
+- 🌱 I’m a React / React Native developer, Go learner
 - 💞️ I’m looking to collaborate on SasS space
 - 📫 How to reach me: vidal at live dot com
 
